@@ -11,3 +11,4 @@ update tblperson set salary = '42000' where id=8
 update tblperson set salary = '64000' where id=9
 update tblperson set salary = '28000' where id=10
 update tblperson set salary = '90000' where id=1
+
